@@ -207,7 +207,7 @@ page = st.sidebar.radio("Go to",
 
 if page == "Tax Calculator":
     st.title("🇮🇳 Income Tax Calculator 2024-25")
-    
+    st.markdown("**Developed by Rajesh Parikh**")  
     income_tab, cg_tab = st.tabs(["Regular Income", "Capital Gains"])
     
     with income_tab:
