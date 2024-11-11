@@ -499,6 +499,7 @@ st.markdown("---")
 st.markdown("""
     <div style='text-align: center'>
         <p>💡 This calculator is for educational purposes only. Please consult a tax professional for advice.</p>
+        <p>Developed by Rajesh Parikh</p>
         <p>Last updated: March 2024</p>
     </div>
 """, unsafe_allow_html=True)
